@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<com.bbg.server.ConfigXML>
+	<uPNP>false</uPNP>
+	<loopTime>1</loopTime>
+	<minSleep>1</minSleep>
+	<inRangeDistance>800</inRangeDistance>
+	<spawnBufferPlayer>500</spawnBufferPlayer>
+	<spawnBufferFriendly>100</spawnBufferFriendly>
+	<spawnBufferWall>110</spawnBufferWall>
+	<flagReturnTime>20000</flagReturnTime>
+	<pingInterval>1000</pingInterval>
+	<idleTime>30000</idleTime>
+</com.bbg.server.ConfigXML>

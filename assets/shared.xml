@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<com.bbg.shared.SharedXML>
+	<stepTime>100</stepTime>
+
+	<t1Name>Bears</t1Name>
+	<t2Name>Not Bears</t2Name>
+	<t1Col>
+		<r>30</r>
+		<g>54</g>
+		<b>235</b>
+		<a>1.0</a>
+	</t1Col>
+	<t2Col>
+	    <r>235</r>
+	    <g>20</g>
+	    <b>20</b>
+	    <a>1.0</a>
+	</t2Col>
+
+	<bulletInheritance>1</bulletInheritance>
+	<fThrust>100</fThrust>
+	<bThrust>45</bThrust>
+	<sThrust>55</sThrust>
+	<rotationSpeed>3</rotationSpeed>
+	<shipDensity>5.0</shipDensity>
+	<shipFriction>0.5</shipFriction>
+	<shipRestitution>1</shipRestitution>
+
+	<lightScale>0.9</lightScale>
+	<mediumScale>1.05</mediumScale>
+	<heavyScale>1.2</heavyScale>
+
+	<lightDensity>.9</lightDensity>
+	<mediumDensity>1</mediumDensity>
+	<heavyDensity>1.1</heavyDensity>
+
+	<lightThrust>1.1</lightThrust>
+	<mediumThrust>1</mediumThrust>
+	<heavyThrust>.9</heavyThrust>
+
+	<lightSpeed>1.65</lightSpeed>
+	<mediumSpeed>1.5</mediumSpeed>
+	<heavySpeed>1.35</heavySpeed>
+
+	<lightRotation>1.1</lightRotation>
+	<mediumRotation>1</mediumRotation>
+	<heavyRotation>.9</heavyRotation>
+
+	<lightHP>75</lightHP>
+	<mediumHP>100</mediumHP>
+	<heavyHP>125</heavyHP>
+
+	
+	<respawnTime>5000</respawnTime>
+	
+	<physicsScale>100</physicsScale>
+	
+	<velocityThresholdFactor>0.0000001</velocityThresholdFactor>
+	<velocityIterations>3</velocityIterations>
+	<positionIterations>8</positionIterations>
+	
+	<bulletRestitution>0.5</bulletRestitution>
+	<bulletFriction>0</bulletFriction>
+	<bulletDensity>0.001</bulletDensity>
+	
+	<barrierRestitution>0.5</barrierRestitution>
+	<barrierFriction>0.5</barrierFriction>
+	<barrierDensity>1</barrierDensity>
+		
+	
+</com.bbg.shared.SharedXML>

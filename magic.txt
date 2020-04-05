@@ -1,0 +1,8 @@
+baseGlowMin
+baseGlowMax
+baseRotationSpeed
+baseGlowChange
+baseScale
+
+add explosion fragment count to BulletDef
+add explosion TTL to BulletDef

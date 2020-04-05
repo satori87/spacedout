@@ -1,0 +1,20 @@
+NEEDED SOUNDS
+
+grab flag
+drop flag
+flag returned (good)
+flag returned (bad)
+flag captured (good)
+flag captured (bad)
+ship explode
+change weapon
+reload
+game over (neutral)
+game over (victory)
+game over (loss)
+game start
+warp sound (game join/change team)
+
+UI Click
+UI Back
+Toggle Menu

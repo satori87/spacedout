@@ -1,0 +1,20 @@
+TODO LIST
+
+default chat size
+minimap wobble
+add spec to player list
+
+-Once AGAIN, Move all numbers and entity strings to config files (teams, colors, names, etc)
+inventory stations (2 kinds)
+more items
+speed up zoomba
+nerf super splat firetime
+web-embedded irc
+add dynamic ordering of binds without changing their numbers
+add a bind name hash
+-make maps
+-votekick
+-add circle to maps, other shapes
+-make weapons/bullets, populate classes with class-specific ones
+-add weapon/item flag to only allow 1 instance of that weapon/item
+-consumable ammo? ongoing debate
